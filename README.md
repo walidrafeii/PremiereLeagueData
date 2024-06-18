@@ -12,8 +12,8 @@ interested in any data for older teams (they don't play anymore).
 
 #### Match Results
 
-[!image](https://github.com/walidrafeii/PremiereLeagueData/blob/main/static/match_results_example.png)
+<img src="https://github.com/walidrafeii/PremiereLeagueData/blob/main/static/match_results_example.png">
 
 #### Team Performance by Season
 
-[!image](https://github.com/walidrafeii/PremiereLeagueData/blob/main/static/team_perf_by_season_example.png)
+<img src="https://github.com/walidrafeii/PremiereLeagueData/blob/main/static/team_perf_by_season_example.png">
