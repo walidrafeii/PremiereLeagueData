@@ -8,6 +8,15 @@ Collected Data: The data collected will be across all teams that played in the m
 Please note that older teams that used to play in the premiere league will be ignored as we are not<br>
 interested in any data for older teams (they don't play anymore).
 
+## Usage
+
+- Create a new python virtual environment
+- Execute: `pip3 install -r requirements.txt`
+- Run the Jupyter Notebook
+- Generated CSV files will be stored under `/data` folder
+
+<span style="color:red;"><strong>Note:</strong></span> This will take some time. Requests are being throttled; scraping various websites and tens of thousands of data points.
+
 ## Collected Data
 
 #### Match Results
